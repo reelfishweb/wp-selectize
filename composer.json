@@ -1,7 +1,7 @@
 {
-  "name": "stuttter/wp-chosen",
+  "name": "troyxmccall/wp-selectize",
   "description": "Makes long, unwieldy select boxes much more user-friendly",
-  "homepage": "https://github.com/stuttter/wp-chosen",
+  "homepage": "https://github.com/troyxmccall/wp-selectize",
   "type": "wordpress-plugin",
   "require": {
     "php": ">=5.2",
@@ -10,8 +10,8 @@
   "license": "GPLv2 or later",
   "authors": [
     {
-      "name": "John James Jacoby",
-      "email": "johnjamesjacoby@me.com"
+      "name": "Troy McCall",
+      "email": "troyxmccall@gmail.com"
     }
   ]
 }
