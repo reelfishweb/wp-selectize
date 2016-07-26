@@ -1,12 +1,13 @@
-jQuery( document ).ready( function ( $ ) {
+jQuery(document).ready(function($) {
 
-    var options = [];
+  var options = {
+    create: true
+  };
 
-    /* Targets */
-   $( '.media-toolbar select' ).selectize(options);
-   $( '.wrap .form-table select' ).selectize(options);
-   $( '.wrap .actions select' ).selectize(options);
-   $( '#customize-theme-controls select' ).selectize(options);
-   $( '#posts-filter .filter-items select' ).selectize(options);
+  $('.media-toolbar select').not('#WPLANG').selectize(options);
+  $('.wrap .form-table select').not('#WPLANG').selectize(options);
+  $('.wrap .actions select').not('#WPLANG').selectize(options);
+  $('#customize-theme-controls select').not('#WPLANG').selectize(options);
+  $('#posts-filter .filter-items select').not('#WPLANG').selectize(options);
 
-} );
+});
