@@ -1,0 +1,17 @@
+.wrap .actions:not(.bulkactions),
+.media-toolbar {
+  overflow: visible !important;
+}
+
+.tablenav .actions {
+  overflow: visible !important; /* Core override */
+}
+
+.selectize-control {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.selectize-control .has-items {
+  margin-right: 30px;
+}

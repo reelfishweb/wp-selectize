@@ -12,8 +12,6 @@ This project is based off of [WP Chosen](https://github.com/stuttter/wp-chosen)
 * Activate in the "Plugins" area of your admin by clicking the "Activate" link.
 * No further setup or configuration is necessary.
 
-This plugin ignores the WP Lang Field because I can't get it to work on that and I was in a rush.
-
 ### Can I contribute?
 
 Yes, please!
