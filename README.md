@@ -8,7 +8,7 @@ This project is based off of [WP Chosen](https://github.com/stuttter/wp-chosen)
 
 # Installation
 
-* Download and install using the built in WordPress plugin installer.
+* Download a zip of this repo and drag the extracted folder to your wp-content/plugins directory
 * Activate in the "Plugins" area of your admin by clicking the "Activate" link.
 * No further setup or configuration is necessary.
 
